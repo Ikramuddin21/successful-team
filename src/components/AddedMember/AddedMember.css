@@ -1,0 +1,26 @@
+.addedMember {
+    position: sticky;
+    top: 20px;
+}
+
+.addedMember h3 {
+    margin-top: 15px;
+}
+
+.memberInfo {
+    display: flex;
+    align-items: center;
+    width: 250px;
+    margin-top: 20px;
+    background-color: #e69326;
+    border-radius: 5px;
+}
+
+.memberInfo img {
+    width: 100px;
+    height: 80px;
+}
+
+.memberInfo span {
+    padding: 0 7px;
+}

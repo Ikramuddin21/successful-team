@@ -1,0 +1,15 @@
+.teamDetails-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding: 20px 0;
+}
+
+.teamMember-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 5px;
+}
+
+.addedMember-container {
+    margin-left: 40px;
+}
