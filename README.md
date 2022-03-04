@@ -11,4 +11,4 @@ There will be some users from whom the user can be selected and the selected use
 
 ## Live link
 
-Open [https://successful-team-pj.netlify.app/](https://successful-team-pj.netlify.app/) to view it in your browser.
+Open [https://successful-team-pj.netlify.app/](https://successful-pj.netlify.app/) to view it in your browser.
